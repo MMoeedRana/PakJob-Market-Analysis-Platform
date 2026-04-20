@@ -13,8 +13,8 @@ __pycache__/
 *.sqlite3
 *.csv
 *.json
-data/processed/all_pakistan_jobs.csv
-data/raw/jobs_raw_backup.csv
+!data/processed/all_pakistan_jobs.csv
+!data/raw/jobs_raw_backup.csv
 
 # IDEs and Editors
 .vscode/
