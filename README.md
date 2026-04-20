@@ -21,8 +21,8 @@ A comprehensive, real-time job market analysis dashboard that scrapes job data, 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone [https://github.com/MMoeedRana/PakJob-Market-Analysis-Platform.git](https://github.com/MMoeedRana/PakJob-Market-Analysis-Platform.git)
+   cd PakJob-Market-Analysis-Platform
 
 # Create and activate a virtual environment:
 python -m venv venv
